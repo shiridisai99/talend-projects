@@ -1,0 +1,9 @@
+﻿brand,model,transmission,make_year,reg_year,fuel_type,engine_capacity(CC),km_driven,ownership,price,overall_cost,has_insurance,spare_key,reg_number,title
+Mahindra,Thar LX D 4WD MT CONVERTIBLE,Manual,2020,01-01-21,Diesel,2184,11003,1st owner,1231000,23431,TRUE,No,HR26,2020 Mahindra Thar LX D 4WD MT CONVERTIBLE
+Hyundai,Verna 1.6 VTVT SX,Manual,2018,01-07-18,Petrol,1591,66936,1st owner,786000,15359,TRUE,No,DL7C,2018 Hyundai Verna 1.6 VTVT SX
+Tata,Harrier XT PLUS 2.0L KRYOTEC DARK EDITON,Manual,2022,01-08-22,Diesel,1956,27990,1st owner,1489000,28349,TRUE,No,HR29,2022 Tata Harrier XT PLUS 2.0L KRYOTEC DARK EDITON
+Honda,City 1.5L I-VTE V CVT,Automatic,2023,01-04-23,Petrol,1498,5061,1st owner,1227000,23355,TRUE,Yes,DL4C,2023 Honda City 1.5L I-VTE V CVT
+Ford,Ecosport TITANIUM 1.5L DIESEL,Manual,2021,01-07-21,Diesel,1498,23480,1st owner,887000,16883,TRUE,No,UP14,2021 Ford Ecosport TITANIUM 1.5L DIESEL
+Honda,WR-V 1.2L I-VTEC VX MT,Manual,2021,01-10-21,Petrol,1199,44787,1st owner,796000,15561,TRUE,No,UP32,2021 Honda WR-V 1.2L I-VTEC VX MT
+Tata,PUNCH CREATIVE  1.2 RTN DUAL TONE,Manual,2022,01-11-22,Petrol,1199,450,1st owner,813000,15475,TRUE,Yes,DL3C,2022 Tata PUNCH CREATIVE  1.2 RTN DUAL TONE
+Tata,NEXON XMA DIESEL,Automatic,2020,01-02-21,Diesel,,59866,1st owner,728000,14228,TRUE,No,DL5C,2020 Tata NEXON XMA DIESEL
